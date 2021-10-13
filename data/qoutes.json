@@ -1,0 +1,32 @@
+[
+    {
+        "id": "abc",
+        "title": "Motivational Qoute",
+        "qoute": "this blah blah balh qoute .....",
+        "author": "Mr. Bean"
+    },
+    {
+        "id": "pqr",
+        "title": "Atitude Qoute",
+        "qoute": "this blah blah balh qoute .....",
+        "author": "Mr. Shang"
+    },
+    {
+        "id": "xyz",
+        "title": "Bussiness Qoute",
+        "qoute": "this blah blah balh qoute .....",
+        "author": "Mr. Zamin"
+    },
+    {
+        "id": "f20b9b5f-0883-4ce0-867f-b6f6bc1a9578",
+        "title": "My personal Qoute",
+        "qoute": "this blah blah balh qoute .....",
+        "author": "Mr. hassam"
+    },
+    {
+        "id": "277315fe-e0b7-419b-91aa-a027b003519e",
+        "title": "My personal Qoute",
+        "qoute": "this blah blah balh qoute .....",
+        "author": "Mr. hassam"
+    }
+]
